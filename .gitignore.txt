@@ -1,0 +1,8 @@
+    ```
+    # PyInstaller artifacts
+    build/
+    *.spec
+
+    # VSCode folder
+    .vscode/
+    ```
